@@ -1,0 +1,14 @@
+Opgave Geheugenmodel volgorde
+
+E-F-D-C-A-B
+
+Opgave Pijl in het geheugenmodel
+
+ -Onderdeel A
+  
+   Een verwijzing naar een ander onderdeel in het geheugen
+
+ -Onderdeel B
+  
+   De pijl begint bij een variabele die het geheugenadres representeert
+   en verwijst naar een geheugenadres
