@@ -1,0 +1,36 @@
+Onderdeel A
+
+int C = 0;
+
+d [0] = 3
+d [1] = 2
+d [2] = 9
+
+c = 3
+c = 5
+c = 14
+
+Wat de functie doet is de 2e lijst (int b) van de array hetVeld( int [] [] a) in een nieuwe
+variable int [] d stoppen. De int die de gebruiker meegeeft is 1 vandaar dat de
+2e lijst er wordt ingestopt (eerste lijst roep je aan met 0, tweede lijst met 1).
+
+Vervolgens gaat de functie met een for loop door array D heen en wordt elke
+waarde uit array D bij de variabele C opgeteld -> 0 + 3 + 2 + 9
+
+Onderdeel B
+
+Je krijgt dan de error arrayIndexOutOfBounds. Dit betekent dat de waarde die
+is ingevuld, groter is dan de lengte van de array. Dit klopt, de array  bevat namelijk
+maar 2 lijsten. De eerste lijst roep je aan met 0 en de andere met 1. Met 2 roep je dus
+een derde lijst aan, maar deze bestaat helemaal niet in de 2d array hetVeld, vandaar
+dat je een foutmelding krijgt.
+
+Onderdeel C
+
+De variabele a,b, c en d worden gedeclareerd binnen de functie doeFunctie.
+Deze zijn dus binnen de functie een lokale variabelen.
+Daar buiten kun je deze dus niet aanroepen.
+
+hetVeld kun je wel aanroepen in de doeFunctie, dat komt omdat dit een globale
+variabele is. Een globale variabele kun je in je hele programma aanroepen, dus 
+ook in de doefunctie.

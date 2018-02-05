@@ -1,0 +1,6 @@
+Het belangrijkste verschil tussen testGetal en testGetallen is het datatype.
+testGetal is een int en testGetallen is een array met hierin 2 integers. 
+
+Een integer kun je keer twee doen door er simpelweg * 2 achter te plakken.
+Bij een array kan dit ook maar om dit te doen moet je eerst door de array
+heenlopen om dit vervolgens voor ieder individueel getal in de array te doen.
