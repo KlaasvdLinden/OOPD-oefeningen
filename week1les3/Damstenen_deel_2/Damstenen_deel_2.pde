@@ -21,12 +21,12 @@ final int DIAMETER = 50;
 
 
 Damsteen witteDamsteen1 = new Damsteen(0, 0, WIT, DIAMETER);
- Damsteen zwarteDamsteen1 = new Damsteen(0, height , ZWART, DIAMETER);
- 
- Damsteen witteDamsteen2 = new Damsteen(width, 0, WIT,DIAMETER);
- Damsteen zwarteDamsteen2 = new Damsteen(height, width, ZWART, DIAMETER);
- 
- Damsteen[] damsteenArray = {witteDamsteen1, zwarteDamsteen1, witteDamsteen2, zwarteDamsteen2}; 
+Damsteen zwarteDamsteen1 = new Damsteen(0, height, ZWART, DIAMETER);
+
+Damsteen witteDamsteen2 = new Damsteen(width, 0, WIT, DIAMETER);
+Damsteen zwarteDamsteen2 = new Damsteen(height, width, ZWART, DIAMETER);
+
+Damsteen[] damsteenArray = {witteDamsteen1, zwarteDamsteen1, witteDamsteen2, zwarteDamsteen2}; 
 
 void setup() {
 
