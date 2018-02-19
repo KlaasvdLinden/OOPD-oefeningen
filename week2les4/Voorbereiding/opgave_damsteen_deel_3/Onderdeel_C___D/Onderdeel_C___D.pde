@@ -10,6 +10,7 @@ void setup() {
   for (int i=0; i< damsteenArray.length; i++) {
 
     damsteenArray[i] = new Damsteen(DIAMETER + DIAMETER * i, height /2, WIT, DIAMETER, true);
+     println(damsteenArray[i]);
   }
 }
 
@@ -18,5 +19,8 @@ void draw() {
   for (int i=0; i<damsteenArray.length; i++) {
 
     damsteenArray[i].tekenDamsteen();
+   
   }
+  
+  
 }

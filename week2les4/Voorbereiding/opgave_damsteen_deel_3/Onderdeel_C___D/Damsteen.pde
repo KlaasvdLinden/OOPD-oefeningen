@@ -31,4 +31,10 @@ class Damsteen {
     ellipseMode(CENTER);
     ellipse(Xpunt, Ypunt, diameter, diameter);
   }
+  
+  String toString(){
+   
+    return "De X van de damsteen is:" + " " + Xpunt + " " +  "De Y van de damsteen is:" + " " + Ypunt  ;
+    
+  }
 }
