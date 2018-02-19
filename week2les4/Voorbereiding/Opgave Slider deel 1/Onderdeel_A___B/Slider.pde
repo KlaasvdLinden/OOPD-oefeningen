@@ -4,12 +4,12 @@ class Slider {
   int sNPosities;
 
 
-  Slider() {
+  Slider(float sliderX, float sliderY, float sliderBreedte, float sliderHoogte, int aantalPosities) {
 
-    sliderBreedte = 200;
-    sliderHoogte = 50;
-    sliderX = (width - sliderBreedte) / 2;
-    sliderY = 50;
-    sNPosities = 5;
+  this.sliderX = sliderX;
+  this.sliderY = sliderY;
+  this.sliderBreedte = sliderBreedte;
+  this.sliderHoogte = sliderHoogte;
+  this.sNPosities = aantalPosities;
   }
 }
