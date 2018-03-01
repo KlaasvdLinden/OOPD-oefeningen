@@ -1,0 +1,3 @@
+Klasse variabele - Statische variabele
+
+Instantievariabele - Objectvariabele

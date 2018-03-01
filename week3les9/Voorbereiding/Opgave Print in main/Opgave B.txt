@@ -1,0 +1,5 @@
+Oplossing 1:
+-De methode print static maken
+
+Oplossing 2:
+-Static bij de main weghalen

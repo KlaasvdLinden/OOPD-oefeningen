@@ -1,0 +1,2 @@
+Dit betekent dat de main static is en dus geen referentie kan maken naar een methode die niet static is, maar alleen
+naar methodes die ook static zijn.
