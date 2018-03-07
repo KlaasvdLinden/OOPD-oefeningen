@@ -1,0 +1,2 @@
+De annotatie kan beter weggelaten worden.
+Klasse A erft niks. Klasse B en C daarentegen wel. 

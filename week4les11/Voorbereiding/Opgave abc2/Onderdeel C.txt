@@ -1,0 +1,9 @@
+regel 13: Klasse A
+regel 14: Klasse B
+regel 15: Klasse C
+regel 16: -
+regel 17: Klasse B
+regel 18: Klasse C
+regel 19: -
+regel 20: -
+regel 21: Klasse C
