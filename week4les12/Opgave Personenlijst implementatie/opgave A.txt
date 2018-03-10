@@ -1,0 +1,5 @@
+Opgave A 
+als je voor persoon kiest dan weet de gebruiker wat er bij het programma moet worden ingevuld zodra er een SLB'er voor een student wordt
+aangemaakt, namelijk een voor en achternaam voor het object SLB'er van de klasse persoon.
+Bovendien heb je de klasse persoon toch al aangemaakt voor Docenten en Studenten en is elke SLB'er die geen docent is tevens een persoon,
+dus kun je deze klasse net zo goed hergebruiken.
