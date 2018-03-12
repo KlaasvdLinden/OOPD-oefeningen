@@ -33,11 +33,11 @@ public abstract class Knop {
 	}
 
 	public void doeKnopActie() {
-		
+
 	}
 
 	public void voegDoelwitToe(IDoelwit doelwit) {
-		
+
 		doelwitten.add(doelwit);
 	}
 }
